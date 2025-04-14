@@ -21,7 +21,7 @@ Ideal para estudiantes, pentesters y entusiastas del hacking ético que quieren 
 - 🖥️ **Filtra por sistema operativo:** Linux o Windows.
 - 🌐 **Salida en terminal** con colores, clara y rápida.
 - 🔗 **Acceso directo** al writeup de cada máquina.
-- 
+
 ![61b4a327-3d04-4c72-b81f-0948c161629c](https://github.com/user-attachments/assets/de846c5d-0b13-4389-9b8a-9178fc9c3fb8)
 
 ---
