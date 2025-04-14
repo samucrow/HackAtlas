@@ -6,8 +6,8 @@ HackAtlas es una herramienta escrita en Bash que te ayuda a descubrir máquinas 
 
 Ideal para estudiantes, pentesters y entusiastas del hacking ético que quieren enfocarse mejor en su aprendizaje y dejar de perder tiempo eligiendo qué hacer.
 
+![Try Hack Me](https://github.com/user-attachments/assets/23805b4c-7a3c-44bd-aadd-2528e70b6bbe)
 
-![ChatGPT Image 13 abr 2025, 17_03_39](https://github.com/user-attachments/assets/7f436522-e04e-4aba-88cc-5452caafea99)
 
 ---
 
